@@ -31,7 +31,7 @@ const ContactSection = () => {
   };
 
   const contactInfo = [
-    { icon: Mail, label: "Email", value: "barshaacharya7@gmail.com", href: "mailto:barshaacharya7@gmail.com" },
+    { icon: Mail, label: "Email", value: "barshaacharya7@gmail.comasdasdasdsad", href: "mailto:barshaacharya7@gmail.com" },
     { icon: Phone, label: "Phone", value: "+977 9840353895", href: "tel:+9779840353895" },
     { icon: MapPin, label: "Location", value: "Kathmandu, Nepal", href: null },
   ];
