@@ -7,6 +7,7 @@ const SkillsSection = () => {
     { name: "Photoshop", icon: Layers, color: "bg-[#31A8FF]/10 text-[#31A8FF] border-[#31A8FF]/20" },
     { name: "InDesign", icon: Palette, color: "bg-[#FF3366]/10 text-[#FF3366] border-[#FF3366]/20" },
     { name: "HTML & CSS", icon: Code, color: "bg-primary/10 text-primary border-primary/20" },
+    { name: "Canva", icon: Layers, color: "bg-blue-400/10 text-blue-400 border-blue-400/20" },
   ];
 
   const softSkills = [

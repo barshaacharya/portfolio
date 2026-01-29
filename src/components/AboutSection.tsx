@@ -70,7 +70,7 @@ const AboutSection = () => {
               Designing with <span className="text-gradient">passion</span> & purpose
             </h2>
             <p className="text-lg text-muted-foreground mb-6 leading-relaxed">
-              I'm a creative UI/UX Designer from Kathmandu, Nepal, with a background in 
+              I'm a creative Graphics and UI/UX Designer from Kathmandu, Nepal, with a background in 
               Computer Applications (BCA). My journey into design started with a curiosity 
               for creating beautiful, functional digital experiences.
             </p>
