@@ -137,7 +137,7 @@ const ContactSection = () => {
 
               {/* Behance Link */}
               <a
-                href="https://www.behance.net/barshaacharya"
+                href="https://www.behance.net/barshaacharya7"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-4 p-5 bg-gradient-to-r from-primary/10 to-accent/10 rounded-2xl border border-primary/20 hover:border-primary/50 transition-all hover:scale-[1.02] group"
